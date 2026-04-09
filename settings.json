@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TanqR-W3zd.aternos.me",
+    "ip": "TanqR-W3zd.aternos.me:22549",
     "port": 22549,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
